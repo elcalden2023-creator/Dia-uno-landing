@@ -1,0 +1,21 @@
+SÍ, QUIERO! — REDISEÑO MODERNO
+
+Archivos:
+- index.html
+- css/style.css
+- js/script.js
+
+Cómo probar:
+1. Descomprimí la carpeta.
+2. Conservá tus imágenes existentes dentro de una carpeta `img` al lado de `index.html`.
+   Se esperan `img/logosiquiero.png` y `img/responsive.png`.
+3. Abrí `index.html` en el navegador.
+
+Notas:
+- El diseño es responsive e incluye animaciones de entrada, hover, movimiento sutil y FAQ desplegables.
+- Se mantiene el enlace de demo Basic que estaba en tu código original.
+- Los botones de Standard y Premium llevan a la sección de contacto porque en el HTML original no tenían enlaces de demo definidos.
+- Las tipografías y Bootstrap Icons requieren conexión a internet.
+
+
+Paleta adaptada al logo de Sí, quiero!: bordó profundo, marfil cálido, rosa empolvado y tonos vino.
